@@ -1,0 +1,62 @@
+10 misses
+word length: 5
+4170 words 2896 wins
+word length: 6
+6166 words 4809 wins
+word length: 7
+7359 words 6311 wins
+word length: 8
+7070 words 6608 wins
+word length: 9
+6078 words 5901 wins
+word length: 10
+
+Words that are 5 letters long
+4170 words 4170 wins
+It takes 18 guesses for words that are 5 letters long
+Words that are 6 letters long
+6166 words 6166 wins
+It takes 18 guesses for words that are 6 letters long
+Words that are 7 letters long
+7359 words 7359 wins
+It takes 17 guesses for words that are 7 letters long
+Words that are 8 letters long
+7070 words 7070 wins
+It takes 15 guesses for words that are 8 letters long
+Words that are 9 letters long
+6078 words 6078 wins
+It takes 15 guesses for words that are 9 letters long
+Words that are 10 letters long
+4591 words 4591 wins
+It takes 13 guesses for words that are 10 letters long
+
+12 misses
+word length: 5
+4170 words 3732 wins
+word length: 6
+6166 words 5732 wins
+word length: 7
+7359 words 7089 wins
+word length: 8
+7070 words 7017 wins
+
+8misses 8 letters
+abashing
+aberdeen
+zanzibar
+ziegfeld
+7070 words 4967 wins
+
+9misses 8 letters
+abashing
+aberrant
+yielding
+ziegfeld
+7070 words 6000 wins
+
+10 misses 8 letters
+abashing
+aberrant
+wreckage
+yellower
+7070 words 6608 wins

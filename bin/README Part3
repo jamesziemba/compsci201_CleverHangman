@@ -1,0 +1,9 @@
+James Ziemba
+Started this project on Feb. 23 and finished it on Feb. 25.
+I consulted classmate Nick Pagliuca re: how to extend HangmanGame.
+I consulted StackOverflow
+This last part of the assignment was pretty easy. I used some code I wrote for the original Hangman assignment and used it 
+in writing my method that returns the longest list of possible words. I altered HangmanExecuter so it allows the player
+to specify how long the secret word is and how many misses he/she gets. Please find my "debug" statements within the 
+makeGuess method in SnarkyHangman. I commented them out, but if you undo that, you can see that the word changes each time
+and the size of the list of words gets smaller.

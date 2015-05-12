@@ -1,0 +1,17 @@
+James Ziemba
+Started this assignment on Feb. 11 and finished it on Feb. 18.
+I consulted Chalena Scholl, various students and TAs at UTA hours, and my tutor George Hugh.
+I consulted StackOverflow.
+
+CleverHangmanPart2.pdf:
+page 1: % of words guessed correctly
+page 2: # of guesses required to solve all words
+page 3: 8 letter words and number of words missed w/ 8, 9, and 10 guesses
+
+My code should be pretty simple to follow. The first part of my code counts the number of occurrences of each letter in the
+words in wordlist. It sorts this info into a HashMap (key = letter, value = number of times letter occurs). The second
+part of the code iterates over the KeySet and finds the letter that occurs the most and stores it as a variable "guess."
+I then use an iterator to iterate over wordlist and, depending on if "guess" is in the secret code, either remove all words
+with "guess" in it (guess is wrong) or not in it (guess is right). I am confident in this code because I believe my logic is
+sound. If I guess the most common letter that has not been guessed each time, I will maximize the amount of words I can get
+right. 

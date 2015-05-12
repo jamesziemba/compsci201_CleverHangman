@@ -1,0 +1,14 @@
+James Ziemba
+Started and completed this part of the assingment on Feb 2. It took about 2 hours.
+I consulted my TA Mack Karnuta.
+I did not consult any outside resources.
+
+CleverHangmanPart1.pdf:
+page 1: adjusted guess list
+page 2: original guess list
+page 3: # of guesses required to solve all words
+
+The adjusted guess list (ESIARN TOLCDU PMGHBY FVKWZX QJ) sorts letters in order of popularity based on how often they are seen in the dictionary.
+The original list (ETAOIN SHRDLU CMFWYP VBGKQJ XZ) is derived from every English text. Because the list of words trying to be guessed are made
+up of common, everyday words (as you would find in a dictionary), the adjusted list is more appropriate for guessing efficiently. The generally 
+higher percentages on page 1 of the pdf than on page 2 confirm this assertion. 
